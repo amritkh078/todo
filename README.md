@@ -1,5 +1,4 @@
 
-# TODO APP
 
 ## Brief
 
